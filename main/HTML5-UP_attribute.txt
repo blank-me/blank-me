@@ -1,0 +1,13 @@
+Don't forget to attribute HTML5 UP for this website design.
+
+Place this on separate site section:
+
+If you like the website design, please checkout HTML5 UP for more.
+
+Website design: HTML5 UP (html5up.net)
+Icons: Font Awesome (fontawesome.io)
+Other: 	jQuery (jquery.com)
+	Scrollex (github.com/ajlkn/jquery.scrollex)
+	Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Some attributions may also be found at the top of HTML code
